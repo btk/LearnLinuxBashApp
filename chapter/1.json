@@ -1,0 +1,20 @@
+[{
+    "code": "$ ls -a",
+    "explain": "This command is used for listing all the files and folders in the current directory that the terminal is operating."
+},
+{
+    "code": "$ ls <folderName>",
+    "explain": "For ls command, if you state a folder's name, the context of that spesific folder will be listed in the terminal."
+},
+{
+    "code": "$ ls -l *.jpg",
+    "explain": "This command is used in order to list the files that have a .jpg extention only."
+},
+{
+    "code": "$ ls -lh",
+    "explain": "This command will list the files as detailed in the current directory that the terminal is operating. Like the file size, last changed date of the files etc."
+},
+{
+    "code": "$ ls -lh <fileName>",
+    "explain": "This command will result the file details for the spesific file that is stated at the end of the command. Like the file size, last changed date of the files etc."
+}]
