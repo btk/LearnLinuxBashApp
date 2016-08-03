@@ -1,0 +1,64 @@
+[{
+    "code": "$ Ctrl + A",
+    "explain": "Go to the beginning of the line you are currently typing on"
+},
+{
+    "code": "$ Ctrl + E",
+    "explain": "Go to the end of the line you are currently typing on"
+},
+{
+    "code": "$ Ctrl + L ",
+    "explain": "Clears the Screen, similar to the clear command"
+},
+{
+    "code": "$ Ctrl + U",
+    "explain": "Clears the line before the cursor position. If you are at the end of the line, clears the entire line."
+},
+{
+    "code": "$ Ctrl + H",
+    "explain": "Same as backspace"
+},
+{
+    "code": "$ Ctrl + R ",
+    "explain": "Let’s you search through previously used commands"
+},
+{
+    "code": "$ Ctrl + C",
+    "explain": "Kill whatever you are running"
+},
+{
+    "code": "$ Ctrl + D",
+    "explain": "Exit the current shell"
+},
+{
+    "code": "$ Ctrl + Z",
+    "explain": "Puts whatever you are running into a suspended background process. fg restores it."
+},
+{
+    "code": "$ Ctrl + W",
+    "explain": "Delete the word before the cursor"
+},
+{
+    "code": "$ Ctrl + K",
+    "explain": "Clear the line after the cursor"
+},
+{
+    "code": "$ Ctrl + T",
+    "explain": "Swap the last two characters before the cursor"
+},
+{
+    "code": "$ Esc + T",
+    "explain": "Swap the last two words before the cursor"
+},
+{
+    "code": "$ Alt + F",
+    "explain": "Move cursor forward one word on the current line"
+},
+{
+    "code": "$ Alt + B",
+    "explain": "Move cursor backward one word on the current line"
+},
+{
+    "code": "$ Tab",
+    "explain": "Auto-complete files and folder names"
+}]
